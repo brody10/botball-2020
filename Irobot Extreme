@@ -4,7 +4,7 @@ int main()
 {
     create_connect();
     //hello hershel 
-    create_drive_direct(500, 500);
+    create_drive_direct(600, 600);
     Straight(500)
     get_create_lbump();
     get_create_rbump();
